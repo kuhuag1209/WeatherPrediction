@@ -1,4 +1,6 @@
-# WeatherPrediction
+
+# Project Topic:
+Weather Condition Prediction from Image
 
 # Abstract:
 Basically, problem is recognise or predict weather condition(air condition) in given picture(image data) by using extracted useful features from image and advanced methods/algorithms. Enlarging previous works and covering different label types are different point of our research.
@@ -16,8 +18,7 @@ Basically, problem is recognise or predict weather condition(air condition) in g
   https://docs.google.com/document/d/1VheZRKp_ZZg7BidROS_N2gTokE6UVv_R/edit
 # DataSet 
  https://drive.google.com/file/d/1VaWc1CZTJEEwUgsurr4TL-g9yCSfaA-1/view?usp=drive_link
-# Project Topic:
-Weather Condition Prediction from Image
+
 
  
 
